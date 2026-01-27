@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "a4f646842a11277c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d22af9333c70237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7e718ccfcdcae54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/MSA pattern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MSA pattern"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a2b67d2c706c044",
+    "type": "split",
+    "children": [
+      {
+        "id": "02b4f0bf657f192d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "379a9be8ee2ef24a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fb657e7bbde5e1b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ca48bc8641c6995",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0dde37d489fbcfa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b44cf15e32a5f6ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef5db37f79a0a411",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Inbox/MSA pattern.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MSA pattern"
+            }
+          },
+          {
+            "id": "20ef42c621014abf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_Inbox/MSA pattern.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MSA pattern"
+            }
+          },
+          {
+            "id": "7e74191223b9c9f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3819061253f04987",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "729cdca8c06aef22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_Inbox/MSA pattern.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MSA pattern"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b7e718ccfcdcae54",
+  "lastOpenFiles": [
+    "00_Inbox/mTLS.md",
+    "00_Inbox/MSA pattern.md",
+    "00_Inbox/k8s Anatomy.md",
+    "00_Inbox/ISO IEC 25010.md",
+    "Index.base",
+    "90_System/attachments/Pasted image 20260108221930.png",
+    "90_System/attachments/Pasted image 20260108221858.png",
+    "90_System/attachments/Pasted image 20260108221822.png",
+    "90_System/attachments/Pasted image 20260108220822.png",
+    "90_System/attachments/Pasted image 20260108214936.png",
+    "90_System/attachments/Pasted image 20260108213632.png",
+    "90_System/attachments/Pasted image 20260108213546.png",
+    "90_System/attachments/Pasted image 20260108213455.png",
+    "90_System/attachments/Pasted image 20260108213356.png",
+    "90_System/attachments",
+    "attachments/Pasted image 20260108221930.png",
+    "attachments",
+    "90_System",
+    "00_Inbox/gRPC.md",
+    "00_Inbox/품질 특성(Quality Attributes).md",
+    "00_Inbox/품질 특성(Quality Attributes) 비기능 요구사항(Non-Functional Requirements).md",
+    "00_Inbox/ISO IEC 국제표준을 알아보자/01-3. 그렇다면 조직 성숙도(Organization Maturity)는 또 뭐야.md",
+    "00_Inbox/ISO IEC 국제표준을 알아보자/01-2. 합의과정에서의 Stand Aside가 조직성숙도의 표시인 이유.md",
+    "00_Inbox/ISO IEC 국제표준을 알아보자/01-1.국제표준을 만들고 합의(Concensus)에 이르는 과정.md",
+    "00_Inbox/ISO IEC 국제표준을 알아보자/01-0. ISO IEC 국제표준에 대하여.md",
+    "00_Inbox/ISO IEC 국제표준을 알아보자",
+    "00_Inbox/AI 성숙도 모델(AI Maturity Model) 이란.md",
+    "00_Inbox/AI 성숙도 5단계 모델.md",
+    "00_Inbox/소프트웨어 품질 평가 표준.md",
+    "00_Inbox/데이터 가치평가(Data Valuation).md",
+    "30_Permanent",
+    "20_Literature",
+    "10_Fleeting",
+    "00_Inbox",
+    "Untitled 3.base"
+  ]
+}
