@@ -4,95 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3afb87bab497c059",
+        "id": "538eb43eea01eb9c",
         "type": "tabs",
         "children": [
           {
-            "id": "cc3d0a68a863077a",
+            "id": "ff2f9294cc0a7d70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/20260203-더닝 크루거 효과(Dunning-Kruger Effect).md",
+                "file": "10_Fleeting/20260203-ISOIEC 25010의 2가지 핵심모델.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260203-더닝 크루거 효과(Dunning-Kruger Effect)"
+              "title": "20260203-ISOIEC 25010의 2가지 핵심모델"
             }
           },
           {
-            "id": "38a0e0a40238bda7",
+            "id": "bd21c137ca2d925e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/20260202-스노비즘(Snobism).md",
+                "file": "10_Fleeting/20260203-ISOIEC 25010의 2가지 핵심모델.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260202-스노비즘(Snobism)"
-            }
-          },
-          {
-            "id": "8ae06375f19ddade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/스노비즘/20260203-메타인지.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20260203-메타인지"
-            }
-          },
-          {
-            "id": "57d7671485cacd69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/MSA/k8s Anatomy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "k8s Anatomy"
-            }
-          },
-          {
-            "id": "d71835be1e35ee59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/스노비즘/20260203-스노비즘(Snobism).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20260203-스노비즘(Snobism)"
-            }
-          },
-          {
-            "id": "0ea9665622550137",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/ISO IEC/품질 특성(Quality Attributes) 비기능 요구사항(Non-Functional Requirements).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "품질 특성(Quality Attributes) 비기능 요구사항(Non-Functional Requirements)"
+              "title": "20260203-ISOIEC 25010의 2가지 핵심모델"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 373.5
   },
   "right": {
     "id": "0dde37d489fbcfa1",
@@ -266,16 +210,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ea9665622550137",
+  "active": "bd21c137ca2d925e",
   "lastOpenFiles": [
+    "00_Inbox/20260203-ISOIEC 25010.md",
+    "10_Fleeting/20260203-ISOIEC 25010의 2가지 핵심모델.md",
+    "00_Inbox/ISO IEC/품질 특성(Quality Attributes) 비기능 요구사항(Non-Functional Requirements).md",
     "00_Inbox/ISO IEC/품질 특성(Quality Attributes).md",
+    "10_Fleeting/Keyword.md",
     "00_Inbox/ISO IEC/01-0. ISO IEC 국제표준에 대하여.md",
     "00_Inbox/스노비즘/20260203-스노비즘(Snobism).md",
     "00_Inbox/스노비즘/20260203-인지편향.md",
     "00_Inbox/스노비즘/20260203-메타인지.md",
     "00_Inbox/스노비즘/20260203-더닝 크루거 효과(Dunning-Kruger Effect).md",
     "00_Inbox/스노비즘",
-    "10_Fleeting/Keyword.md",
     "00_Inbox/MSA/k8s Anatomy.md",
     "Untitled.canvas",
     "00_Inbox/MSA/gRPC.md",
@@ -290,7 +237,6 @@
     "00_Inbox/ISO IEC/01-2. 합의과정에서의 Stand Aside가 조직성숙도의 표시인 이유.md",
     "00_Inbox/ISO IEC/ISO IEC 25010.md",
     "00_Inbox/ISO IEC/AI 성숙도 모델(AI Maturity Model) 이란.md",
-    "00_Inbox/ISO IEC/품질 특성(Quality Attributes) 비기능 요구사항(Non-Functional Requirements).md",
     "00_Inbox/ISO IEC/소프트웨어 품질 평가 표준.md",
     "10_Fleeting/20260128-ISO-IEC.md",
     "Index.base",
