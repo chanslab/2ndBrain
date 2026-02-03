@@ -151,17 +151,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Inbox/MSA pattern.md",
+                "file": "00_Inbox/20260203-인지편향.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MSA pattern"
+              "title": "Backlinks for 20260203-인지편향"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Inbox/MSA pattern.md",
+                "file": "00_Inbox/20260203-인지편향.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MSA pattern"
+              "title": "Outgoing links from 20260203-인지편향"
             }
           },
           {
@@ -233,11 +233,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
