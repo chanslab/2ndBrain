@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3afb87bab497c059",
+        "id": "c7406cfa55149109",
         "type": "tabs",
         "children": [
           {
-            "id": "cc3d0a68a863077a",
+            "id": "79f7962d5c560705",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/20260203-더닝 크루거 효과(Dunning-Kruger Effect).md",
+                "file": "20_Literature/20260203-찍는 순간 연결되는 QR코드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260203-더닝 크루거 효과(Dunning-Kruger Effect)"
-            }
-          },
-          {
-            "id": "38a0e0a40238bda7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/20260202-스노비즘(Snobism).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20260202-스노비즘(Snobism)"
-            }
-          },
-          {
-            "id": "8ae06375f19ddade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/스노비즘/20260203-메타인지.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20260203-메타인지"
-            }
-          },
-          {
-            "id": "57d7671485cacd69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/MSA/k8s Anatomy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "k8s Anatomy"
-            }
-          },
-          {
-            "id": "d71835be1e35ee59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/스노비즘/20260203-스노비즘(Snobism).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20260203-스노비즘(Snobism)"
-            }
-          },
-          {
-            "id": "0ea9665622550137",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/ISO IEC/품질 특성(Quality Attributes) 비기능 요구사항(Non-Functional Requirements).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "품질 특성(Quality Attributes) 비기능 요구사항(Non-Functional Requirements)"
+              "title": "20260203-찍는 순간 연결되는 QR코드"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ISO/IEC_1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 409.5
   },
   "right": {
     "id": "0dde37d489fbcfa1",
@@ -165,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Inbox/ISO IEC/품질 특성(Quality Attributes) 비기능 요구사항(Non-Functional Requirements).md",
+                "file": "20_Literature/20260203-찍는 순간 연결되는 QR코드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 품질 특성(Quality Attributes) 비기능 요구사항(Non-Functional Requirements)"
+              "title": "Backlinks for 20260203-찍는 순간 연결되는 QR코드"
             }
           },
           {
@@ -184,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Inbox/ISO IEC/품질 특성(Quality Attributes) 비기능 요구사항(Non-Functional Requirements).md",
+                "file": "20_Literature/20260203-찍는 순간 연결되는 QR코드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 품질 특성(Quality Attributes) 비기능 요구사항(Non-Functional Requirements)"
+              "title": "Outgoing links from 20260203-찍는 순간 연결되는 QR코드"
             }
           },
           {
@@ -266,34 +195,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ea9665622550137",
+  "active": "379a9be8ee2ef24a",
   "lastOpenFiles": [
-    "00_Inbox/ISO IEC/품질 특성(Quality Attributes).md",
-    "00_Inbox/ISO IEC/01-0. ISO IEC 국제표준에 대하여.md",
-    "00_Inbox/스노비즘/20260203-스노비즘(Snobism).md",
+    "10_Fleeting/Keyword.md",
+    "10_Fleeting",
+    "00_Inbox/ISO IEC/ISO IEC 25010.md",
+    "30_Permanent/Keyword.md",
+    "20_Literature/20260203-찍는 순간 연결되는 QR코드.md",
+    "60_References/오픈소스 AI 생태계 구축과 국내 LLM 주권.pdf",
+    "60_References/국가 데이터 주권 확립을 위한 AI 학습 데이터 표준.pdf",
+    "60_References/2._260122_인공지능_안전성_확보_가이드라인.pdf",
+    "60_References/1._260122_인공지능_투명성_확보_가이드라인.pdf",
+    "60_References/3._260122_고영향_인공지능_판단_가이드라인.pdf",
+    "60_References/5._260122_인공지능_영향평가_가이드라인.pdf",
+    "60_References/4._260122_고영향_인공지능_사업자_책무_가이드라인-1.pdf",
+    "60_References/(한국지능정보사회진흥원)_2024_디지털정보격차_실태조사_보고서_최종.pdf",
+    "60_References/인공지능 발전과 신뢰 기반 조성 등에 관한 기본법(법률)(제21311호)(20260122).pdf",
     "00_Inbox/스노비즘/20260203-인지편향.md",
+    "00_Inbox/스노비즘/20260203-스노비즘(Snobism).md",
+    "00_Inbox/MSA/k8s Anatomy.md",
     "00_Inbox/스노비즘/20260203-메타인지.md",
     "00_Inbox/스노비즘/20260203-더닝 크루거 효과(Dunning-Kruger Effect).md",
-    "00_Inbox/스노비즘",
-    "10_Fleeting/Keyword.md",
-    "00_Inbox/MSA/k8s Anatomy.md",
+    "00_Inbox/ISO IEC/소프트웨어 품질 평가 표준.md",
+    "00_Inbox/ISO IEC/품질 특성(Quality Attributes).md",
+    "00_Inbox/ISO IEC/품질 특성(Quality Attributes) 비기능 요구사항(Non-Functional Requirements).md",
+    "00_Inbox/ISO IEC/01-0. ISO IEC 국제표준에 대하여.md",
     "Untitled.canvas",
     "00_Inbox/MSA/gRPC.md",
-    "00_Inbox/MSA",
     "00_Inbox/ISO IEC/01-1.국제표준을 만들고 합의(Concensus)에 이르는 과정.md",
     "00_Inbox/ISO IEC/01-3. 그렇다면 조직 성숙도(Organization Maturity)는 또 뭐야.md",
     "00_Inbox/MSA/mTLS.md",
     "00_Inbox/MSA/MSA pattern.md",
     "00_Inbox/ISO IEC/AI 성숙도 5단계 모델.md",
-    "00_Inbox/Untitled.base",
     "00_Inbox/ISO IEC/데이터 가치평가(Data Valuation).md",
     "00_Inbox/ISO IEC/01-2. 합의과정에서의 Stand Aside가 조직성숙도의 표시인 이유.md",
-    "00_Inbox/ISO IEC/ISO IEC 25010.md",
     "00_Inbox/ISO IEC/AI 성숙도 모델(AI Maturity Model) 이란.md",
-    "00_Inbox/ISO IEC/품질 특성(Quality Attributes) 비기능 요구사항(Non-Functional Requirements).md",
-    "00_Inbox/ISO IEC/소프트웨어 품질 평가 표준.md",
     "10_Fleeting/20260128-ISO-IEC.md",
-    "Index.base",
     "90_System/attachments/Pasted image 20260108221930.png",
     "90_System/attachments/Pasted image 20260108221858.png",
     "90_System/attachments/Pasted image 20260108221822.png",
@@ -303,12 +240,6 @@
     "90_System/attachments/Pasted image 20260108213546.png",
     "90_System/attachments/Pasted image 20260108213455.png",
     "90_System/attachments/Pasted image 20260108213356.png",
-    "90_System/attachments",
-    "attachments/Pasted image 20260108221930.png",
-    "attachments",
-    "90_System",
-    "00_Inbox/ISO IEC",
-    "30_Permanent",
-    "20_Literature"
+    "attachments/Pasted image 20260108221930.png"
   ]
 }
