@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "00_Inbox",
-  "attachmentFolderPath": "90_System/attachments"
+  "attachmentFolderPath": "90_System/attachments",
+  "promptDelete": false
 }
