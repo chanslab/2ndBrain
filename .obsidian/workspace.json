@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "20260204-ISOIEC 25010"
             }
+          },
+          {
+            "id": "8d0d6b9b4c3656b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/20260209-망연계 솔루션 정리해야 함.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260209-망연계 솔루션 정리해야 함"
+            }
+          },
+          {
+            "id": "5b513357523d7586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/20260209-망연계 솔루션 정리해야 함.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260209-망연계 솔루션 정리해야 함"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
-    "collapsed": true
+    "width": 409.5
   },
   "right": {
     "id": "0dde37d489fbcfa1",
@@ -211,12 +238,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7b9ff7d6359c995",
+  "active": "5b513357523d7586",
   "lastOpenFiles": [
-    "20_Literature/20260203-ISOIEC 25010의 2가지 핵심모델.md",
+    "00_Inbox/20260209-간편인증 정리.md",
+    "00_Inbox/20260209-망연계 솔루션 정리해야 함.md",
     "20_Literature/20260204-ISOIEC 25010.md",
+    "20_Literature/20260203-ISOIEC 25010의 2가지 핵심모델.md",
     "20_Literature/20260203-찍는 순간 연결되는 QR코드.md",
+    "00_Inbox/스노비즘/20260203-스노비즘(Snobism).md",
+    "00_Inbox/스노비즘/20260203-메타인지.md",
     "30_Permanent/Keyword.md",
+    "60_References/5._260122_인공지능_영향평가_가이드라인.pdf",
+    "40_Structure/Untitled.md",
     "00_Inbox/ISO IEC/AI 성숙도 모델(AI Maturity Model) 이란.md",
     "60_References/소프트웨어 품질 특성 활용 가이드.pdf",
     "20_Literature/미확인 689403.crdownload",
@@ -232,10 +265,7 @@
     "10_Fleeting",
     "00_Inbox/ISO IEC/ISO IEC 25010.md",
     "60_References/국가 데이터 주권 확립을 위한 AI 학습 데이터 표준.pdf",
-    "60_References/2._260122_인공지능_안전성_확보_가이드라인.pdf",
-    "00_Inbox/스노비즘/20260203-스노비즘(Snobism).md",
     "00_Inbox/MSA/k8s Anatomy.md",
-    "00_Inbox/스노비즘/20260203-메타인지.md",
     "00_Inbox/스노비즘/20260203-더닝 크루거 효과(Dunning-Kruger Effect).md",
     "00_Inbox/ISO IEC/소프트웨어 품질 평가 표준.md",
     "00_Inbox/ISO IEC/품질 특성(Quality Attributes).md",
@@ -247,9 +277,6 @@
     "00_Inbox/MSA/mTLS.md",
     "00_Inbox/MSA/MSA pattern.md",
     "00_Inbox/ISO IEC/AI 성숙도 5단계 모델.md",
-    "00_Inbox/ISO IEC/데이터 가치평가(Data Valuation).md",
-    "00_Inbox/ISO IEC/01-2. 합의과정에서의 Stand Aside가 조직성숙도의 표시인 이유.md",
-    "10_Fleeting/20260128-ISO-IEC.md",
     "90_System/attachments/Pasted image 20260108221930.png",
     "90_System/attachments/Pasted image 20260108221858.png",
     "90_System/attachments/Pasted image 20260108221822.png",
