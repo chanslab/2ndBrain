@@ -4,179 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4c3cb545f07fded1",
+        "id": "aa62d9b8075cb1a1",
         "type": "tabs",
         "children": [
           {
-            "id": "7f467cbf2b182358",
+            "id": "db3d18559226e2af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/콘웨이의 법칙.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "콘웨이의 법칙"
-            }
-          },
-          {
-            "id": "4aabf2e03038d37e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/Ollama.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ollama"
-            }
-          },
-          {
-            "id": "0170fd939e152ea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/Overfitting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overfitting"
-            }
-          },
-          {
-            "id": "4543021b4e95e831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/ML 정규화.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ML 정규화"
-            }
-          },
-          {
-            "id": "486f27b87aa70344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/K-폴드 교차검증.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "K-폴드 교차검증"
-            }
-          },
-          {
-            "id": "d77c7c8977c65594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/COT (Chain of Thought).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "COT (Chain of Thought)"
-            }
-          },
-          {
-            "id": "305bbb625e84f96f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/COT, ReAct, TOT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "COT, ReAct, TOT"
-            }
-          },
-          {
-            "id": "55d13da66cbe4121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/Context Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Context Engineering"
-            }
-          },
-          {
-            "id": "d17f9aedb2ab1f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/코사인 유사도.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "코사인 유사도"
-            }
-          },
-          {
-            "id": "90ee7d54d57627a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/클래스 불균형.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "클래스 불균형"
-            }
-          },
-          {
-            "id": "4580e89817b83450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/임베딩.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "임베딩"
-            }
-          },
-          {
-            "id": "7a7157a968983bac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_System/Template/New Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New Note"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -329,14 +170,23 @@
               "icon": "lucide-ghost",
               "title": "advanced-tables-toolbar"
             }
+          },
+          {
+            "id": "a218d91865e1afef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -347,14 +197,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a7157a968983bac",
+  "active": "db3d18559226e2af",
   "lastOpenFiles": [
+    "90_System/Template/New Note.md",
     "90_System/Template",
     "30_Permanent/Keyword.md",
-    "90_System/Template/New Note.md",
     "80_Work/AX",
     "80_Work",
     "00_Inbox/내적 , 외적.md",
@@ -387,7 +238,6 @@
     "70_Daily/2026-02-24-AX_주간업무회의.md",
     "70_Daily",
     "60_References/소프트웨어 품질 특성 활용 가이드.pdf",
-    "60_References/인공지능 발전과 신뢰 기반 조성 등에 관한 기본법(법률)(제21311호)(20260122).pdf",
     "Untitled.canvas",
     "90_System/attachments/Pasted image 20260108221930.png",
     "90_System/attachments/Pasted image 20260108221858.png",
