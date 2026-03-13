@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aa62d9b8075cb1a1",
+        "id": "5ec17b81e4cb8155",
         "type": "tabs",
         "children": [
           {
-            "id": "db3d18559226e2af",
+            "id": "5bad7666853dfd0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -180,6 +184,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0b064f9f4ed0e770",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 6
@@ -201,8 +215,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db3d18559226e2af",
+  "active": "379a9be8ee2ef24a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "90_System/Template/New Note.md",
     "90_System/Template",
     "30_Permanent/Keyword.md",
